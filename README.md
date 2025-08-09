@@ -1,5 +1,3 @@
-# Why didn't you just search it up? 
-
 # OKBOOMER- 
 
 ### Team Name: MACVL5
@@ -21,17 +19,17 @@ Using an app which does the same.
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- Languages Used: Python
-- With the help of __ we were able to deploy this useless app.
-- Tools: VS Code
+- Languages Used: HTML,CSS,JS
+- With the help of Gemini we were able to deploy this useless app.
+- Tools: VS Code, Gemini model
 
-### Implementation
-For Software:
 # Installation
-[commands]
+git clone "https://github.com/abhinandip27/OKBOOMER-.git"
 
 # Run
-[commands]
+*Make sure to put API ID in script.js*
+cd "Your_directory"
+start index.html (For Windows)
 
 # Screenshots
 
@@ -52,8 +50,10 @@ For Software:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://github.com/user-attachments/assets/ccefceb2-f97a-4354-9c95-8e89bd75508a
+
+
+*Demonstrating how this app makes the sentence more genz*
 
 ## Team Contributions
 - Abhinand I P: UI development
