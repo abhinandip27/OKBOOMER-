@@ -1,5 +1,4 @@
-# 
-Why didn't you just search it up? 
+# Why didn't you just search it up? 
 
 # OKBOOMER- 
 
@@ -38,11 +37,13 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+
+<img width="1918" height="907" alt="ded" src="https://github.com/user-attachments/assets/6ee1937d-b06c-4826-b700-25a1cb85150b" />(Example 1)
+*Basic UI*
+
+<img width="1917" height="902" alt="working2" src="https://github.com/user-attachments/assets/54b66c67-169c-4325-a902-ea4d68b5a6cb" />(Example 2)
+*Working example 1*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
