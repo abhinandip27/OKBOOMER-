@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gen Z Translator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="bg-particles" id="particles"></div>
+    
+    <div class="container">
+        <div class="app-card">
+            <h1 class="title">Gen Z Translator</h1>
+            <p class="subtitle">Enter a normal sentence, and I'll translate it into Gen Z slang.</p>
+            
+            <div class="input-group">
+                <textarea 
+                    class="textarea" 
+                    id="userInput" 
+                    placeholder="Enter your sentence here..."
+                ></textarea>
+            </div>
+            
+            <button class="translate-btn" id="translateBtn" onclick="translateText()">
+                <span id="btnText">Translate</span>
+            </button>
+            
+            <div class="result-container" id="resultContainer">
+                <div class="result-card">
+                    <button class="copy-btn" id="copyBtn" onclick="copyResult()" title="Copy to clipboard">
+                        📋
+                    </button>
+                    <div class="result-title">
+                        <span>Translation:</span>
+                    </div>
+                    <div class="result-text" id="resultText"></div>
+                </div>
+            </div>
+            
+            <div class="warning" id="warning" style="display: none;">
+                Please enter some text to translate.
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
