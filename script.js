@@ -1,5 +1,5 @@
 // ⚠️ REPLACE 'YOUR_API_KEY_HERE' WITH YOUR ACTUAL GOOGLE GEMINI API KEY
-const GOOGLE_API_KEY = "AIzaSyCpPOsQLIU62nrNP9ACIHzWQnsP0-F81VE";
+const GOOGLE_API_KEY = "AIzaSyBlMKx8LgLYUXtd_T1TitMC2ykQ1jZjLtE";
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${GOOGLE_API_KEY}`;
 
 // Create animated background particles
@@ -142,5 +142,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
 });
+
 
 
