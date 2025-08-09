@@ -44,9 +44,9 @@ start index.html (For Windows)
 
 *Working example2*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+# Workflow Diagram
+<img width="1024" height="1536" alt="diagram" src="https://github.com/user-attachments/assets/9ae41933-72d4-4c02-8637-17d71e3a5693" />
+
 
 ### Project Demo
 # Video
