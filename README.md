@@ -11,20 +11,20 @@ Why didn't you just search it up?
 - Member 2: Abhinav A R - College of Engineering Trivandrum
 
 ### ABOUT OKBOOMER!
-For the boomers who can't even search up genz slangs -We present OKBOOMER!. May this program which takes more time than googling it help their lazy ahh.
+For everyone who thinks “cap” is just a hat – meet OKBOOMER! It turns your normal, everyday sentences into certified Gen Z bangers. Is it faster than googling? No. Is it cooler? Absolutely.
 
 ### The Problem (that doesn't exist)
-Description says it all. Just google it.
+Why would anyone want to translate their text into Genz slang lol.
 
 ### The Solution (that nobody asked for)
-Web scraping data from Urban Dicitonary keeps the meanings intact lol.
+Using an app which does the same.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
 - Languages Used: Python
 - With the help of __ we were able to deploy this useless app.
-- Tools: VS Code, Oppo Enco Buds2 for emotional support
+- Tools: VS Code
 
 ### Implementation
 For Software:
@@ -55,9 +55,6 @@ For Software:
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - [Name 1]: [Specific contributions]
