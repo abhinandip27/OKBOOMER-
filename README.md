@@ -57,6 +57,5 @@ For Software:
 *Explain what the video demonstrates*
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Abhinand I P: UI development
+- Abhinav A R: Backend
